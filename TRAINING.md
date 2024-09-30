@@ -1,3 +1,5 @@
+## THIS SECTION BELONGS TO THE ORIGINAL PAPER WHICH IS CITED IN ReadMe IN MAIN DIRECTORY OF THE PROJECT
+
 You can train your own model by following these instructions:
 
 ## Step 1: Install COCO API
